@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x85993481CC149c1fEC6D21723956201d10F61320",
+  "SCAN_LINK": "https://polygonscan.com/address/0x85993481cc149c1fec6d21723956201d10f61320",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Afrikong",
+  "SYMBOL": "AK",
+  "MAX_SUPPLY": 3324,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/afrikong-nft",
+  "SHOW_BACKGROUND": true
+}
